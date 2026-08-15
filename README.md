@@ -46,7 +46,7 @@ I am a B.Tech CSE student interested in Software Engineering, Web Development, A
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Satish-53&layout=compact&theme=tokyonight)
 ## 🧩 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Satish-53?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Satish53?theme=dark&font=baloo)
 ## 🌐 Connect With Me
 
 - 🐙 GitHub: [Satish-53](https://github.com/Satish-53)
