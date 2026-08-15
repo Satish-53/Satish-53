@@ -47,3 +47,7 @@ I am a B.Tech CSE student interested in Software Engineering, Web Development, A
 ## 🧩 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Satish-53?theme=dark&font=baloo)
+## 🌐 Connect With Me
+
+- 🐙 GitHub: [Satish-53](https://github.com/Satish-53)
+- 📧 Email: satishyadav963172@gmail.com
