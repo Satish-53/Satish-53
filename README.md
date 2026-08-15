@@ -35,3 +35,9 @@ I am a B.Tech CSE student interested in Software Engineering, Web Development, A
 - 🌐 Web Development
 - 📱 Application Development
 - 💻 Software Engineering
+## 📊 GitHub Stats
+
+![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satish-53&show_icons=true&theme=tokyonight)
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Satish-53&theme=tokyonight)](https://git.io/streak-stats)
