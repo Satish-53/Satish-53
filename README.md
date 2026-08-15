@@ -9,3 +9,29 @@ I am a B.Tech CSE student interested in Software Engineering, Web Development, A
 📱 Interested in Application Development  
 🧠 Practicing DSA and Problem Solving  
 📚 Exploring new technologies
+## 🛠️ Tech Stack
+
+### Programming Languages
+- ☕ Java
+- 🐍 Python
+- 💻 C
+
+### Web Development
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+
+### Database
+- 🗄️ SQL
+- 🛢️ Oracle
+
+### Tools
+- 🔧 Git
+- 🐙 GitHub
+- 💻 VS Code
+
+### Currently Learning
+- 🧠 Data Structures & Algorithms
+- 🌐 Web Development
+- 📱 Application Development
+- 💻 Software Engineering
