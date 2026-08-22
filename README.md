@@ -39,11 +39,11 @@ I am a B.Tech CSE student interested in Software Engineering, Web Development, A
 ## 📊 GitHub Stats
 ![Satish's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Satish-53&show_icons=true&theme=tokyonight)
 
-## 💻 Most Used Languages
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Satish-53&layout=compact&theme=tokyonight)
-
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Satish-53)](https://git.io/streak-stats)
+
+## 💻 Most Used Languages
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Satish-53&layout=compact&theme=tokyonight)
 
 ## 🧩 LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Satish53?theme=dark&font=baloo)
