@@ -33,23 +33,39 @@ and turning ideas into practical projects.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 🗄️ Database
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Database
-- 🗄️ SQL
-- 🛢️ Oracle
+## 📚 Currently Learning
 
-### Currently Learning
-- 🧠 Data Structures & Algorithms
-- 🌐 Web Development
-- 📱 Application Development
-- 💻 Software Engineering
+<p align="center">
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=for-the-badge)
+
+![Web Development](https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge)
+
+![Application Development](https://img.shields.io/badge/Application%20Development-16A34A?style=for-the-badge)
+
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-F59E0B?style=for-the-badge)
+
+</p>
   
 ## 📊 GitHub Stats
-![Satish's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Satish-53&show_icons=true&theme=tokyonight)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Satish-53&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-53&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Satish-53)](https://git.io/streak-stats)
