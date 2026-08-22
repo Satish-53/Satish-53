@@ -57,26 +57,6 @@ and turning ideas into practical projects.
 
 </p>
   
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Satish-53&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="495">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-53&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="495">
-
-</div>
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Satish53&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satish53&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
 ## 🔥 GitHub Streak
 
 <div align="center">
