@@ -98,6 +98,4 @@ and turning ideas into practical projects.
 
 </div>
 
-## 🌐 Connect With Me
-- 🐙 GitHub: [Satish-53](https://github.com/Satish-53)
 - 📧 Email: satishyadav963172@gmail.com
