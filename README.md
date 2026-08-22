@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=220&section=header&text=SATISH%20YADAV&fontSize=65&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2" />
+</p>
 # Hi 👋, I'm Satish Yadav
 
 ## 💻 Software Engineering Student
