@@ -57,13 +57,6 @@ and turning ideas into practical projects.
 
 </p>
 
-## 🟩 GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-contributions.vercel.app/api/Satish53" alt="GitHub Contributions">
-
-</div>
 
 ## 🔥 GitHub Streak
 
@@ -94,6 +87,4 @@ and turning ideas into practical projects.
 </a>
 
 </div>
-## 🐍 My GitHub Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/satish-53/satish-53/output/github-contribution-grid-snake.svg)
