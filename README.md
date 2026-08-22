@@ -38,37 +38,9 @@ and turning ideas into practical projects.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# Hi 👋, I'm Satish Yadav
-
-## 💻 Software Engineering Student
-
-I am a B.Tech CSE student interested in Software Engineering, Web Development, Application Development, and Data Structures & Algorithms.
-
-🚀 Currently learning and building projects  
-🌐 Interested in Websites & Web Applications  
-📱 Interested in Application Development  
-🧠 Practicing DSA and Problem Solving  
-📚 Exploring new technologies
-## 🛠️ Tech Stack
-
-### Programming Languages
-- ☕ Java
-- 🐍 Python
-- 💻 C
-
-### Web Development
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-
 ### Database
 - 🗄️ SQL
 - 🛢️ Oracle
-
-### Tools
-- 🔧 Git
-- 🐙 GitHub
-- 💻 VS Code
 
 ### Currently Learning
 - 🧠 Data Structures & Algorithms
