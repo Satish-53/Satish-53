@@ -57,12 +57,6 @@ and turning ideas into practical projects.
 
 </p>
   
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Satish-53&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-</div>
 
 ## 🔥 GitHub Streak
 
@@ -72,6 +66,15 @@ and turning ideas into practical projects.
 
 </div>
 
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Satish-53&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-53&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%">
+
+</div>
 ## 🧩 LeetCode
 
 <div align="center">
