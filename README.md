@@ -56,7 +56,13 @@ and turning ideas into practical projects.
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-F59E0B?style=for-the-badge)
 
 </p>
-  
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satish53&theme=github-compact&hide_border=true" width="100%"/>
+
+</div>
+
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -65,11 +71,6 @@ and turning ideas into practical projects.
 
 </div>
 
-<h2 align="center">🐍 My GitHub Contributions</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Satish53/Satish53/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</div>
 
 ## 🧩 LeetCode
 
