@@ -1,8 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=WELCOME%2C%20CURIOUS%20MIND!&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=WELCOME%2C%20CURIOUS%20MIND!&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
 
-<h3 align="center">LEARN • THINK • BUILD • GROW 🚀</h3>
+<h2 align="center">👋 WELCOME, CURIOUS MIND!</h2>
+
+<p align="center">
+  YOU'VE JUST ENTERED A SPACE WHERE EVERY LINE OF CODE IS A STEP FORWARD. 🚀
+</p>
+
+<p align="center">
+  <b>LEARN • THINK • BUILD • GROW</b>
+</p>
 # Hi 👋, I'm Satish Yadav
 
 ## 💻 Software Engineering Student
