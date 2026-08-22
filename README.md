@@ -67,12 +67,22 @@ and turning ideas into practical projects.
 
 </div>
 
+## 🔥 GitHub Streak
 
-## 💻 Most Used Languages
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Satish-53&layout=compact&theme=tokyonight)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Satish-53&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ## 🧩 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/Satish53?theme=dark&font=baloo)
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Satish53?theme=dark&font=baloo&ext=heatmap" width="500"/>
+
+</div>
+
 
 ## 🌐 Connect With Me
 - 🐙 GitHub: [Satish-53](https://github.com/Satish-53)
