@@ -97,6 +97,6 @@ and turning ideas into practical projects.
 </a>
 
 </div>
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:satishyadav963172@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
