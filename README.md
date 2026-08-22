@@ -61,7 +61,7 @@ and turning ideas into practical projects.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satish53&theme=github-compact&hide_border=true&area=true" width="100%">
+<img src="https://github-contributions.vercel.app/api/Satish53" alt="GitHub Contributions">
 
 </div>
 
