@@ -44,7 +44,7 @@ I am a B.Tech CSE student interested in Software Engineering, Web Development, A
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SatishYadav)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Satish-53)](https://git.io/streak-stats)
 
 ## 🧩 LeetCode
 
