@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=WELCOME%2C%20CURIOUS%20MIND!&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
 
-<h2 align="center">👋 WELCOME, CURIOUS MIND!</h2>
-
 <p align="center">
   YOU'VE JUST ENTERED A SPACE WHERE EVERY LINE OF CODE IS A STEP FORWARD. 🚀
 </p>
