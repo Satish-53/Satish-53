@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=SATISH%20YADAV&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=WELCOME%2C%20CURIOUS%20MIND!&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 </p>
+
+<h3 align="center">LEARN • THINK • BUILD • GROW 🚀</h3>
 # Hi 👋, I'm Satish Yadav
 
 ## 💻 Software Engineering Student
