@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=220&section=header&text=SATISH%20YADAV&fontSize=65&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=SATISH%20YADAV&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 </p>
 # Hi 👋, I'm Satish Yadav
 
