@@ -65,6 +65,12 @@ and turning ideas into practical projects.
 
 </div>
 
+<h2 align="center">🐍 My GitHub Contributions</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Satish53/Satish53/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</div>
+
 ## 🧩 LeetCode
 
 <div align="center">
