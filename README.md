@@ -94,10 +94,6 @@ and turning ideas into practical projects.
 </a>
 
 </div>
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
+## 🐍 My GitHub Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Satish53/Satish53/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</div>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/satish-53/satish-53/output/github-contribution-grid-snake.svg)
