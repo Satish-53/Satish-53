@@ -57,32 +57,46 @@ and turning ideas into practical projects.
 
 </p>
   
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Satish-53&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="495">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-53&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="495">
+
+</div>
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Satish-53&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Satish-53&theme=tokyonight&hide_border=true" width="495">
 
 </div>
 
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Satish-53&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-53&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%">
-
-</div>
 ## 🧩 LeetCode
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Satish53?theme=dark&font=baloo&ext=heatmap" width="500"/>
+<img src="https://leetcard.jacoblin.cool/Satish53?theme=dark&ext=heatmap" width="495">
 
 </div>
+## 🌐 Connect With Me
 
+<div align="center">
+
+<a href="https://github.com/Satish-53">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/u/Satish53/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+</div>
 
 ## 🌐 Connect With Me
 - 🐙 GitHub: [Satish-53](https://github.com/Satish-53)
