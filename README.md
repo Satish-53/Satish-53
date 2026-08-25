@@ -60,11 +60,9 @@ and turning ideas into practical projects.
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Satish-53&theme=tokyonight&hide_border=true" width="495">
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Satish-53&theme=dark" />
+</p>
 
 
 ## 🧩 LeetCode
