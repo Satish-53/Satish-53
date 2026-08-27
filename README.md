@@ -78,14 +78,13 @@ and turning ideas into practical projects.
 
 ## 🧩 LeetCode</h2>
 
-<p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/Satish53?theme=dark&font=Baloo&ext=contest"
-    width="500"
-    alt="Satish53 LeetCode Stats"
-  />
-</p>
+<div align="center">
 
+<a href="https://leetcode.com/u/Satish53/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Satish53?theme=dark&font=baloo&ext=heatmap" width="500" />
+</a>
+
+</div>
 ## 🌐 Connect With Me</h2>
 
 <div align="center">
