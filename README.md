@@ -57,10 +57,15 @@ and turning ideas into practical projects.
 ## 📚 Currently Learning
 
 <p align="center">
+  
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=for-the-badge)
+
 ![Web Development](https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge)
+
 ![Application Development](https://img.shields.io/badge/Application%20Development-16A34A?style=for-the-badge)
+
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-F59E0B?style=for-the-badge)
+
 </p>
 
 
