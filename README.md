@@ -92,13 +92,25 @@ and turning ideas into practical projects.
 </p>
 
 
-## 🧩 LeetCode
+<h2 align="center">🧩 LeetCode</h2>
 
-<div align="center">
+<p align="center">
 
-<img src="https://leetcard.jacoblin.cool/Satish53?theme=dark&ext=heatmap" width="495">
+  <a href="https://leetcode.com/u/Satish53/">
 
-</div>
+    <img
+      src="https://leetcard.jacoblin.cool/Satish53?theme=dark&font=Baloo&ext=contest"
+      width="500"
+      alt="Satish53 LeetCode Stats"
+    />
+
+  </a>
+
+</p>
+
+<p align="center">
+  <b>💻 Solving Problems • 🧠 Improving DSA • 🚀 Growing Every Day</b>
+</p>
 ## 🌐 Connect With Me
 
 <div align="center">
