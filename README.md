@@ -22,51 +22,51 @@ and turning ideas into practical projects.
 - 🎯 Focused on becoming a better programmer every day
 
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-### 💻 Programming
+<h3>💻 Programming</h3>
 
 <p align="left">
 
-<img src="./assets/3d-c.gif" width="130">
+<img src="https://img.shields.io/badge/C-0A66C2?style=for-the-badge&logo=c&logoColor=white&labelColor=064B91&color=1683FF" height="45">
 
-<img src="./assets/3d-java.gif" width="150">
+<img src="https://img.shields.io/badge/JAVA-E76F00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=B94F00&color=FF9800" height="45">
 
-<img src="./assets/3d-python.gif" width="160">
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=24577D&color=4B9FE1" height="45">
 
 </p>
 
-### 🌐 Web Development
+<h3>🌐 Web Development</h3>
 
 <p align="left">
 
-<img src="./assets/3d-html.gif" width="150">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=A52E18&color=FF6347" height="45">
 
-<img src="./assets/3d-css.gif" width="140">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D4F80&color=2196F3" height="45">
 
-<img src="./assets/3d-javascript.gif" width="180">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=C5AE00&color=FFE94A" height="45">
 
 </p>
 
-### 🗄️ Database
+<h3>🗄️ Database</h3>
 
 <p align="left">
 
-<img src="./assets/3d-sql.gif" width="130">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=285A73&color=5B9BD5" height="45">
 
-<img src="./assets/3d-oracle.gif" width="160">
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=A00000&color=FF3030" height="45">
 
 </p>
 
-### 🔧 Tools
+<h3>🔧 Tools</h3>
 
 <p align="left">
 
-<img src="./assets/3d-git.gif" width="130">
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=A83220&color=FF6547" height="45">
 
-<img src="./assets/3d-github.gif" width="160">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=333333" height="45">
 
-<img src="./assets/3d-vscode.gif" width="160">
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=005A91&color=2196F3" height="45">
 
 </p>
 
