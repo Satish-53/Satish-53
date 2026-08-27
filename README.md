@@ -22,7 +22,7 @@ and turning ideas into practical projects.
 - 🎯 Focused on becoming a better programmer every day
 
 
-## <h2>🛠️ Tech Stack</h2>
+ <h2>🛠️ Tech Stack</h2>
 
 <h3>💻 Programming</h3>
 <p align="left">
