@@ -112,7 +112,6 @@ and turning ideas into practical projects.
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</div>
 <a href="https://www.instagram.com/its_01_friends/" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" />
 </a>
