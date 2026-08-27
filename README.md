@@ -81,6 +81,15 @@ and turning ideas into practical projects.
 <div align="center">
 
 <a href="https://leetcode.com/u/Satish53/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Satish53?theme=dark&font=baloo&ext=heatmap" width="500" />
+</a>
+
+</div>
+
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Satish53/" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" />
   <b>LeetCode</b>
 </a>
