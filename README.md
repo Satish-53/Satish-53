@@ -32,6 +32,7 @@ and turning ideas into practical projects.
 </p>
 
 <h3>🌐 Web Development</h3>
+
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=A52E18&color=FF6347" height="45">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D4F80&color=2196F3" height="45">
@@ -39,12 +40,14 @@ and turning ideas into practical projects.
 </p>
 
 <h3>🗄️ Database</h3>
+
 <p align="left">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=285A73&color=5B9BD5" height="45">
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=A00000&color=FF3030" height="45">
 </p>
 
-## <h2>🔧 Tools</h2>
+<h2>🔧 Tools</h2>
+
 <p align="left">
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=A83220&color=FF6547" height="45">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=333333" height="45">
