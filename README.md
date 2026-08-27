@@ -104,18 +104,19 @@ and turning ideas into practical projects.
 ## 🌐 Connect With Me
 
 <div align="center">
+
 <a href="https://leetcode.com/u/Satish53/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" height="42" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
- 
 <a href="mailto:satishyadav963172@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" />
 </a>
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/its_01_friends/" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" />
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" />
 </a>
+
+</div>
