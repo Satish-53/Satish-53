@@ -114,4 +114,6 @@ and turning ideas into practical projects.
 </a>
 
 </div>
-
+<a href="https://www.instagram.com/its_01_friends/" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
