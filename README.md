@@ -86,8 +86,8 @@ and turning ideas into practical projects.
 
 </div>
 
-## Contact With Me
-:mailbox:
+## :mailbox: Contact With Me
+
 <div align="center">
 
 <a href="https://leetcode.com/u/Satish53/" target="_blank">
