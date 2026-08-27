@@ -101,7 +101,8 @@ and turning ideas into practical projects.
     alt="Satish53 LeetCode Stats"
   />
 </p>
-## 🌐 Connect With Me
+
+## 🌐 Connect With Me</h2>
 
 <div align="center">
 
