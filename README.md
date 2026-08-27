@@ -104,12 +104,12 @@ and turning ideas into practical projects.
 ## 🌐 Connect With Me
 
 <div align="center">
-<a href="https://leetcode.com/u/Satish53/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+<a href="https://leetcode.com/u/Satish53/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" />
 </a>
 
 <a href="mailto:satishyadav963172@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" />
 </a>
 
 <a href="https://www.instagram.com/its_01_friends/" target="_blank">
