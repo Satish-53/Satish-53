@@ -108,9 +108,13 @@ and turning ideas into practical projects.
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" />
 </a>
 
+
+ 
 <a href="mailto:satishyadav963172@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" />
 </a>
+
+
 
 <a href="https://www.instagram.com/its_01_friends/" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" />
