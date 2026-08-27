@@ -92,7 +92,7 @@ and turning ideas into practical projects.
 </p>
 
 
-🧩 LeetCode</h2>
+## 🧩 LeetCode</h2>
 
 <p align="center">
   <img
