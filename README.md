@@ -104,7 +104,6 @@ and turning ideas into practical projects.
 ## 🌐 Connect With Me
 
 <div align="center">
-
 <a href="https://leetcode.com/u/Satish53/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
