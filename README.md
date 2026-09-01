@@ -68,29 +68,21 @@ and turning ideas into practical projects.
 
 </p>
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Satish-53&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Satish-53&show_icons=true&theme=tokyonight" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-53&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-53&layout=compact&theme=tokyonight" width="40%">
 
 </div>
 
-<br>
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Satish-53&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satish-53&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Satish-53&theme=tokyonight" width="60%">
 
 </div>
 
