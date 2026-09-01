@@ -108,6 +108,22 @@ to improve problem-solving and programming skills.
 
 </div>
 
+## 💻 Coding Journey
+
+<div align="center">
+
+🚀 Learning Java & Data Structures and Algorithms  
+<br>
+🧩 Solving LeetCode Problems Regularly  
+<br>
+🌐 Building Web Development Projects  
+<br>
+🔧 Learning Git & GitHub  
+<br>
+📈 Improving Problem-Solving Skills Every Day
+
+</div>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
