@@ -68,6 +68,16 @@ and turning ideas into practical projects.
 
 </p>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Satish-53/Student-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satish-53&repo=Student-Management-System&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
 
 ## 📊 GitHub Statistics
 
