@@ -129,15 +129,6 @@ to improve problem-solving and programming skills.
 
 </div>
 
-## 🏆 GitHub Profile
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/Satish-53?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/Satish-53?label=Stars&style=for-the-badge" />
-<img src="https://img.shields.io/github/repos/Satish-53?label=Repositories&style=for-the-badge" />
-
-</div>
 
 ## 📫 Connect With Me
 
@@ -154,6 +145,16 @@ to improve problem-solving and programming skills.
 <a href="https://www.instagram.com/its_01_friends/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
+</div>
+
+## 🏆 GitHub Profile
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/Satish-53?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Satish-53?label=Stars&style=for-the-badge" />
+<img src="https://img.shields.io/github/repos/Satish-53?label=Repositories&style=for-the-badge" />
 
 </div>
 
