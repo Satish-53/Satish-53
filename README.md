@@ -183,14 +183,14 @@ to improve problem-solving and programming skills.
 
 </div>
 
+
 ## 👀 Profile Visitors
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Satish-53&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Satish-53&label=Profile%20Views&style=for-the-badge" />
 
 </div>
-
 ## 🌟 Thanks for Visiting!
 
 <div align="center">
