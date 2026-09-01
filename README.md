@@ -108,21 +108,6 @@ to improve problem-solving and programming skills.
 
 </div>
 
-## 💻 Coding Journey
-
-<div align="center">
-
-🚀 Learning Java & Data Structures and Algorithms  
-<br>
-🧩 Solving LeetCode Problems Regularly  
-<br>
-🌐 Building Web Development Projects  
-<br>
-🔧 Learning Git & GitHub  
-<br>
-📈 Improving Problem-Solving Skills Every Day
-
-</div>
 
 ## 📊 GitHub Statistics
 
@@ -162,16 +147,9 @@ to improve problem-solving and programming skills.
 
 </div>
 
-## 🏆 GitHub Profile
-
-<div align="center">
-
 <img src="https://img.shields.io/github/followers/Satish-53?label=Followers&style=for-the-badge" />
 <img src="https://img.shields.io/github/stars/Satish-53?label=Stars&style=for-the-badge" />
 <img src="https://img.shields.io/github/repos/Satish-53?label=Repositories&style=for-the-badge" />
-
-</div>
-
 
 ## 👀 Profile Visitors
 
