@@ -161,3 +161,40 @@ to improve problem-solving and programming skills.
 </a>
 
 </div>
+
+## 🏆 GitHub Profile
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/Satish-53?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Satish-53?label=Stars&style=for-the-badge" />
+<img src="https://img.shields.io/github/repos/Satish-53?label=Repositories&style=for-the-badge" />
+
+</div>
+
+## 🚀 More Projects
+
+<div align="center">
+
+| Project | Technology | Link |
+|---------|------------|------|
+| 🎓 College Student Management System | C, HTML, CSS, JavaScript | [View Project](https://github.com/Satish-53/Student-Management-System) |
+| 🧩 DSA & LeetCode Practice | Java | [View Profile](https://leetcode.com/u/Satish53/) |
+
+</div>
+
+## 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Satish-53&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+
+</div>
+
+## 🌟 Thanks for Visiting!
+
+<div align="center">
+
+💡 Keep Learning • Keep Building • Keep Growing 🚀
+
+</div>
