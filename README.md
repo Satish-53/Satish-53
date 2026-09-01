@@ -68,6 +68,32 @@ and turning ideas into practical projects.
 
 </p>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Satish-53&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-53&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Satish-53&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satish-53&theme=tokyonight" width="95%" />
+
+</div>
+
 
 ## 🔥 GitHub Streak
 
