@@ -94,6 +94,19 @@ to improve problem-solving and programming skills.
   View LeetCode Profile →
 </a>
 
+## 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Progress |
+|------|----------|
+| 🧠 Master DSA | 🔄 Learning |
+| 💻 Solve 300+ LeetCode Problems | 🔄 In Progress |
+| 🚀 Build Real-World Projects | 🔄 In Progress |
+| 🌐 Improve Web Development | 🔄 Learning |
+| 🤝 Contribute to Open Source | 🎯 Planned |
+
+</div>
 
 ## 📊 GitHub Statistics
 
