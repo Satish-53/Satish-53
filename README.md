@@ -70,13 +70,29 @@ and turning ideas into practical projects.
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🎓 College Student Management System
 
+A complete college management project designed to manage student admission,
+student details, fees, and login functionality.
+
+**Tech Used:** C • HTML • CSS • JavaScript
+
+🔗 **Project:**  
 <a href="https://github.com/Satish-53/Student-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satish-53&repo=Student-Management-System&theme=tokyonight&hide_border=true" />
+  View Project →
 </a>
 
-</div>
+---
+
+### 🧠 DSA & LeetCode Practice
+
+Regularly practicing Data Structures & Algorithms and solving coding problems
+to improve problem-solving and programming skills.
+
+🔗 **LeetCode:**  
+<a href="https://leetcode.com/u/Satish53/">
+  View LeetCode Profile →
+</a>
 
 
 ## 📊 GitHub Statistics
