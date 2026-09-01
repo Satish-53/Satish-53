@@ -172,17 +172,6 @@ to improve problem-solving and programming skills.
 
 </div>
 
-## 🚀 More Projects
-
-<div align="center">
-
-| Project | Technology | Link |
-|---------|------------|------|
-| 🎓 College Student Management System | C, HTML, CSS, JavaScript | [View Project](https://github.com/Satish-53/Student-Management-System) |
-| 🧩 DSA & LeetCode Practice | Java | [View Profile](https://leetcode.com/u/Satish53/) |
-
-</div>
-
 
 ## 👀 Profile Visitors
 
