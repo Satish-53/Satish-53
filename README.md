@@ -153,22 +153,23 @@ to improve problem-solving and programming skills.
 <div align="center">
 
 <a href="https://github.com/Satish-53?tab=followers" target="_blank">
-  <img src="https://img.shields.io/github/followers/Satish-53?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Satish-53?label=Followers&style=for-the-badge&logo=github" alt="Followers">
 </a>
 
 <a href="https://github.com/Satish-53?tab=following" target="_blank">
-  <img src="https://img.shields.io/github/following/Satish-53?label=Following&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Following-View-blue?style=for-the-badge&logo=github" alt="Following">
 </a>
 
 <a href="https://github.com/Satish-53?tab=stars" target="_blank">
-  <img src="https://img.shields.io/badge/⭐%20Starred%20Repos-View-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Satish-53?label=Stars&style=for-the-badge&logo=github" alt="Stars">
 </a>
 
 <a href="https://github.com/Satish-53?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/Repositories-2-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/repos/Satish-53?label=Repositories&style=for-the-badge&logo=github" alt="Repositories">
 </a>
 
 </div>
+
 
 ## 👀 Profile Visitors
 
