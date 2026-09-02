@@ -157,8 +157,10 @@ to improve problem-solving and programming skills.
 </a>
 
 <a href="https://github.com/Satish-53?tab=following" target="_blank">
-  <img src="https://img.shields.io/github/Following/Satish-53?label=Following&style=for-the-badge"" />
+  <img src="https://img.shields.io/github/following/Satish-53?label=Following&style=for-the-badge" />
 </a>
+
+</div>
 
 <a href="https://github.com/Satish-53?tab=stars" target="_blank">
   <img src="https://img.shields.io/badge/⭐%20Starred%20Repos-View-yellow?style=for-the-badge" />
