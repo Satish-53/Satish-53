@@ -82,6 +82,9 @@ student details, fees, and login functionality.
   View Project →
 </a>
 
+## 🧠 DSA & LeetCode Practice Regularly practicing Data Structures & Algorithms and solving coding problems to improve problem-solving and programming skills. 🔗 **LeetCode:** <a href="https://leetcode.com/u/Satish53/"> View LeetCode Profile → </a>
+
+
 ## 🎯 2026 Goals
 
 <div align="center">
