@@ -138,18 +138,3 @@ student details, fees, and login functionality.
 </a>
 
 </div>
-
-## 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Satish-53&label=Profile%20Views&style=for-the-badge" />
-
-</div>
-## 🌟 Thanks for Visiting!
-
-<div align="center">
-
-💡 Keep Learning • Keep Building • Keep Growing 🚀
-
-</div>
