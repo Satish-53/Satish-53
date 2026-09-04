@@ -161,30 +161,6 @@ as a Computer Science student and aspiring software engineer.
 
 </div>
 
-
-## 🏆 GitHub Profile
-
-<div align="center">
-
-<a href="https://github.com/Satish-53?tab=followers" target="_blank">
-  <img src="https://img.shields.io/github/followers/Satish-53?label=Followers&style=for-the-badge&logo=github" alt="Followers">
-</a>
-
-<a href="https://github.com/Satish-53?tab=following" target="_blank">
-  <img src="https://img.shields.io/badge/Following-View-blue?style=for-the-badge&logo=github" alt="Following">
-</a>
-
-<a href="https://github.com/Satish-53?tab=stars" target="_blank">
-  <img src="https://img.shields.io/github/stars/Satish-53?label=Stars&style=for-the-badge&logo=github" alt="Stars">
-</a>
-
-<a href="https://github.com/Satish-53?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/github/repos/Satish-53?label=Repositories&style=for-the-badge&logo=github" alt="Repositories">
-</a>
-
-</div>
-
-
 ## 👀 Profile Visitors
 
 <div align="center">
