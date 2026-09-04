@@ -22,7 +22,7 @@ and turning ideas into practical projects.
 - 🎯 Focused on becoming a better programmer every day
 
 
- ##<h2>🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <h3>💻 Programming</h3>
 <p align="left">
@@ -46,7 +46,7 @@ and turning ideas into practical projects.
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=A00000&color=FF3030" height="45">
 </p>
 
-<h2>🔧 Tools</h2>
+## 🔧 Tools
 
 <p align="left">
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=A83220&color=FF6547" height="45">
