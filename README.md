@@ -20,8 +20,9 @@ and turning ideas into practical projects.
 - 🚀 Building projects and improving my coding skills
 - 🔍 Always curious to learn something new
 - 🎯 Focused on becoming a better programmer every day
-----
- <h2>🛠️ Tech Stack</h2>
+
+
+ ##<h2>🛠️ Tech Stack</h2>
 
 <h3>💻 Programming</h3>
 <p align="left">
@@ -52,7 +53,8 @@ and turning ideas into practical projects.
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=333333" height="45">
 <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=005A91&color=2196F3" height="45">
 </p>
-----
+
+
 ## 📚 Currently Learning
 
 <p align="center">
@@ -66,7 +68,8 @@ and turning ideas into practical projects.
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-F59E0B?style=for-the-badge)
 
 </p>
-----
+
+
 ## 🚀 Featured Projects
 
 ### 🎓 College Student Management System
@@ -90,7 +93,8 @@ to improve problem-solving and programming skills.
 <a href="https://leetcode.com/u/Satish53/">
   View LeetCode Profile →
 </a>
-----
+
+
 ## 🎯 2026 Goals
 
 <div align="center">
@@ -104,7 +108,8 @@ to improve problem-solving and programming skills.
 | 🤝 Contribute to Open Source | 🎯 Planned |
 
 </div>
-----
+
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -114,7 +119,8 @@ to improve problem-solving and programming skills.
 <img src="./profile/top-langs.svg" width="40%" />
 
 </div>
-----
+
+
 ## 🧩 LeetCode
 
 <div align="center">
@@ -124,7 +130,8 @@ to improve problem-solving and programming skills.
 </a>
 
 </div>
-----
+
+
 ## 📫 Connect With Me
 
 <div align="center">
