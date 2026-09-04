@@ -94,6 +94,16 @@ to improve problem-solving and programming skills.
   View LeetCode Profile →
 </a>
 
+### 💼 LinkedIn Profile
+
+Building my professional network and sharing my journey
+as a Computer Science student and aspiring software engineer.
+
+🔗 **LinkedIn:**  
+<a href="https://www.linkedin.com/in/satish53/" target="_blank">
+  View LinkedIn Profile →
+</a>
+
 ## 🎯 2026 Goals
 
 <div align="center">
@@ -127,12 +137,6 @@ to improve problem-solving and programming skills.
   <img src="https://leetcard.jacoblin.cool/Satish53?theme=dark&font=baloo&ext=heatmap" width="500" />
 </a>
 
-</div>
-
-## Linkedin
-<a href="https://www.linkedin.com/in/satish53/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 </div>
 
 ## 📫 Connect With Me
