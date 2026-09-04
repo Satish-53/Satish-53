@@ -82,28 +82,6 @@ student details, fees, and login functionality.
   View Project →
 </a>
 
----
-
-### 🧠 DSA & LeetCode Practice
-
-Regularly practicing Data Structures & Algorithms and solving coding problems
-to improve problem-solving and programming skills.
-
-🔗 **LeetCode:**  
-<a href="https://leetcode.com/u/Satish53/">
-  View LeetCode Profile →
-</a>
-
-### 💼 LinkedIn Profile
-
-Building my professional network and sharing my journey
-as a Computer Science student and aspiring software engineer.
-
-🔗 **LinkedIn:**  
-<a href="https://www.linkedin.com/in/satish53/" target="_blank">
-  View LinkedIn Profile →
-</a>
-
 ## 🎯 2026 Goals
 
 <div align="center">
