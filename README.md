@@ -143,7 +143,7 @@ to improve problem-solving and programming skills.
 <a href="https://leetcode.com/u/Satish53/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="https://twitter.com/Sa30ydv53" target="_blank">
+<a href="https://twitter.com/Sa30ydv" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="mailto:satishyadav963172@gmail.com">
