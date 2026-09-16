@@ -8,9 +8,9 @@
 
 </div>
 
-## 👋 Hi, I'm Satish Yadav
+> ## 👋 Hi, I'm Satish Yadav
 
-> 🎓 B.Tech CSE Student | 💻 Aspiring Software Engineer | 🧠 Problem Solver
+> 🎓 B.Tech CSE Student @ C. V. Raman Global University | 💻 Aspiring Software Engineer | 🧠 Problem Solver
 
 I'm passionate about learning new technologies, solving problems,
 and turning ideas into practical projects.
@@ -24,7 +24,7 @@ and turning ideas into practical projects.
 
 ## 🛠️ Tech Stack
 
-<h3>💻 Programming</h3>
+
 <p align="left">
 <img src="https://img.shields.io/badge/C-0A66C2?style=for-the-badge&logo=c&logoColor=white&labelColor=064B91&color=1683FF" height="45">
 <img src="https://img.shields.io/badge/JAVA-E76F00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=B94F00&color=FF9800" height="45">
@@ -37,6 +37,14 @@ and turning ideas into practical projects.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=A52E18&color=FF6347" height="45">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D4F80&color=2196F3" height="45">
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=C5AE00&color=FFE94A" height="45">
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="45">
+</p>
+
+<h3>⚙️ Backend</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" height="45">
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" height="45">
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="45">
 </p>
 
 <h3>🗄️ Database</h3>
@@ -63,8 +71,6 @@ and turning ideas into practical projects.
 
 ![Web Development](https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge)
 
-![Application Development](https://img.shields.io/badge/Application%20Development-16A34A?style=for-the-badge)
-
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-F59E0B?style=for-the-badge)
 
 </p>
@@ -84,15 +90,18 @@ student details, fees, and login functionality.
   View Project →
 </a>
 
-## 🧠 DSA & LeetCode Practice
+## 🧠 DSA & LeetCode
 
 Regularly practicing Data Structures & Algorithms and solving coding problems
 to improve problem-solving and programming skills.
 
-🔗 **LeetCode:**  
-<a href="https://leetcode.com/u/Satish53/">
-  View LeetCode Profile →
+<div align="center">
+
+<a href="https://leetcode.com/u/Satish53/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Satish53?theme=dark&font=baloo&ext=heatmap" width="500" />
 </a>
+
+</div>
 
 
 ## 🎯 2026 Goals
@@ -119,18 +128,6 @@ to improve problem-solving and programming skills.
 <img src="./profile/top-langs.svg" width="40%" />
 
 </div>
-
-
-## 🧩 LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Satish53/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/Satish53?theme=dark&font=baloo&ext=heatmap" width="500" />
-</a>
-
-</div>
-
 
 ## 📫 Connect With Me
 
