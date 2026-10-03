@@ -122,7 +122,7 @@ to improve problem-solving and programming skills.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satish-53&theme=github-compact&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satish53&theme=github-compact&hide_border=true" width="95%"/>
 
 </div>
 
