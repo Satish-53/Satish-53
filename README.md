@@ -121,20 +121,15 @@ to improve problem-solving and programming skills.
 ## 📈 GitHub Contributions
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satish-53&theme=github-compact&hide_border=true" width="95%"/>
-
 </div>
 
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
 <img src="./profile/stats.svg" width="48%" />
-
 <img src="./profile/top-langs.svg" width="40%" />
-
 </div>
 
 ## 📫 Connect With Me
@@ -144,19 +139,15 @@ to improve problem-solving and programming skills.
 <a href="https://www.linkedin.com/in/satish53/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://leetcode.com/u/Satish53/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
 <a href="https://twitter.com/Sa30ydv" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-
 <a href="mailto:satishyadav963172@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.instagram.com/its_01_friends/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
