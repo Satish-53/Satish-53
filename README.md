@@ -129,7 +129,7 @@ to improve problem-solving and programming skills.
 
 <div align="center">
 <img src="./profile/stats.svg" width="40%" />
-<img src="./profile/top-langs.svg" width="30%" />
+<img src="./profile/top-langs.svg" width="32%" />
 </div>
 
 ## 📫 Connect With Me
