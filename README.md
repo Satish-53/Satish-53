@@ -128,8 +128,8 @@ to improve problem-solving and programming skills.
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img src="./profile/stats.svg" width="48%" />
-<img src="./profile/top-langs.svg" width="40%" />
+<img src="./profile/stats.svg" width="45%" />
+<img src="./profile/top-langs.svg" width="45%" />
 </div>
 
 ## 📫 Connect With Me
