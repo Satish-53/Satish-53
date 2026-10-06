@@ -120,7 +120,9 @@ to improve problem-solving and programming skills.
 
 ## 📈 GitHub Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satish-53&theme=github-compact&hide_border=true" width="95%"/>
+<div align="center">
+  <img src="https://ghchart.rshah.org/Satish-53" alt="Satish's GitHub contribution graph" width="95%">
+</div>
 
 ## 📊 GitHub Statistics
 
