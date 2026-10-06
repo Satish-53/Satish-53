@@ -122,7 +122,6 @@ to improve problem-solving and programming skills.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satish-53&theme=github-compact&hide_border=true" width="95%"/>
 
-
 ## 📊 GitHub Statistics
 
 <div align="center">
