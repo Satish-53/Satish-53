@@ -121,7 +121,10 @@ to improve problem-solving and programming skills.
 ## 📈 GitHub Contributions
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/Satish-53" alt="GitHub contributions">
+  <img
+    src="https://ghchart.rshah.org/Satish-53"
+    alt="Satish-53's GitHub contributions graph"
+  />
 </div>
 
 ## 📊 GitHub Statistics
