@@ -119,7 +119,7 @@ to improve problem-solving and programming skills.
 </div>
 
 ## 📈 GitHub Contributions
-![Satish-53 GitHub contribution graph](https://ghchart.rshah.org/Satish-53)
+![GitHub contribution snake](https://raw.githubusercontent.com/Satish-53/Satish-53/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Statistics
 
