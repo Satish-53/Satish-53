@@ -111,7 +111,7 @@ to improve problem-solving and programming skills.
 | Goal | Progress |
 |------|----------|
 | 🧠 Master DSA | 🔄 Learning |
-| 💻 Solve 300+ LeetCode Problems | 🔄 In Progress |
+| 💻 Solve 200+ LeetCode Problems | 🔄 In Progress |
 | 🚀 Build Real-World Projects | 🔄 In Progress |
 | 🌐 Improve Web Development | 🔄 Learning |
 | 🤝 Contribute to Open Source | 🎯 Planned |
